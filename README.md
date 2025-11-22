@@ -1,32 +1,38 @@
-# JoanReed-DataPortfolio
-Data Analysis Portfolio
 # 👋 Hi, I'm Joan Reed  
 ### Healthcare Data Analyst in Training  
 
-I'm a Certified Medical Assistant transitioning into Data Analytics.  
-I use **Excel, SQL, Tableau, and Python** to turn healthcare data into actionable insights.
+Welcome to my **Data Analytics Portfolio** — a collection of real-world projects demonstrating my skills in **data cleaning, visualization, and analysis** using Excel, SQL, Python, and Power BI/Tableau.
 
 ---
 
-## 🩺 Featured Projects
+## 🩺 Featured Projects  
 
-### 1. [Hospital Readmission Analysis](link-will-go-here)
-Analyzed patient data to identify trends in readmissions and created visualizations to show key factors.
-
-### 2. [Appointment No-Show Trends](link-will-go-here)
-Used data cleaning, visualization, and analysis to understand patterns in patient no-shows.
+| Project | Description | Tools |
+|----------|--------------|--------|
+| [Healthcare Appointment No-Shows](Projects/Healthcare-Appointment-NoShows/README.md) | Analyzed no-show patterns in patient data to identify scheduling and demographic trends. | Excel, Python, Power BI |
+| [Hospital Readmission Analysis](Projects/Hospital-Readmissions/README.md) | Examined hospital readmissions to find factors influencing patient returns within 30 days. | SQL, Tableau, Python |
+| [CDC Chronic Disease Trends](Projects/CDC-Chronic-Disease-Trends/README.md) | Used CDC open data to visualize and explore chronic illness trends over time. | Python, Tableau |
 
 ---
 
-## 🧠 Skills & Tools
+## 🧠 Skills  
+
 - **Languages:** SQL, Python  
-- **Visualization:** Tableau, Power BI, Excel  
-- **Data Wrangling:** pandas, NumPy  
+- **Data Analysis:** Excel, pandas, NumPy  
+- **Visualization:** Tableau, Power BI, Matplotlib  
+- **Data Cleaning & Prep:** OpenRefine, Excel, pandas  
 - **Version Control:** Git & GitHub  
 
 ---
 
-## 📬 Contact
-- 📧 [Email](joanlynn0514@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 📊 [Tableau Public](https://public.tableau.com/profile/yourname)
+## 🌱 About Me  
+
+Certified Medical Assistant transitioning into Data Analytics. Passionate about improving healthcare outcomes through data-driven insights and clear visualization.
+
+---
+
+## 📬 Connect with Me  
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 📊 [Tableau Public](https://public.tableau.com/profile/yourname)  
+- 📧 [Email Me](mailto:joanlynn0514@gmail.com)
