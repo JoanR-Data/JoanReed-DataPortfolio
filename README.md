@@ -10,7 +10,7 @@ Welcome to my **Data Analytics Portfolio** — a collection of real-world projec
 | Project | Description | Tools |
 |----------|--------------|--------|
 | [Healthcare Appointment No-Shows](Projects/Healthcare-Appointment-NoShows/README.md) | Analyzed no-show patterns in patient data to identify scheduling and demographic trends. | Excel, Python, Power BI |
-| [Hospital Readmission Analysis](Healthcare-Appointment-NoShows) | Examined hospital readmissions to find factors influencing patient returns within 30 days. | SQL, Tableau, Python |
+| [Hospital Readmission Analysis](Healthcare-appointment-NoShows) | Examined hospital readmissions to find factors influencing patient returns within 30 days. | SQL, Tableau, Python |
 | [CDC Chronic Disease Trends](Projects/CDC-Chronic-Disease-Trends/README.md) | Used CDC open data to visualize and explore chronic illness trends over time. | Python, Tableau |
 
 ---
