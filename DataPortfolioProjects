@@ -1,0 +1,35 @@
+JoanReed-DataPortfolio/
+│
+├── README.md
+│
+├── 📁 Projects/
+│   ├── Healthcare-Appointment-NoShows/
+│   │   ├── README.md
+│   │   ├── data/
+│   │   │   └── appointments.csv
+│   │   ├── notebooks/
+│   │   │   └── no_show_analysis.ipynb
+│   │   └── visuals/
+│   │       └── dashboard_screenshot.png
+│   │
+│   ├── Hospital-Readmissions/
+│   │   ├── README.md
+│   │   ├── data/
+│   │   │   └── readmissions.csv
+│   │   ├── notebooks/
+│   │   │   └── readmission_analysis.ipynb
+│   │   └── visuals/
+│   │       └── visualization.png
+│   │
+│   └── CDC-Chronic-Disease-Trends/
+│       ├── README.md
+│       ├── data/
+│       │   └── cdc_data.csv
+│       ├── notebooks/
+│       │   └── chronic_disease_trends.ipynb
+│       └── visuals/
+│           └── trends_dashboard.png
+│
+└── 📁 Assets/
+    ├── Portfolio_Banner.png
+    └── Profile_Photo.jpg
